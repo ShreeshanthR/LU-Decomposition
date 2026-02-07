@@ -47,8 +47,9 @@ print(x)
 ```
 
 ## Output:
-![lu decomposition]()
+(i)
 <img width="1227" height="473" alt="image" src="https://github.com/user-attachments/assets/6400ec4e-e17e-4c8b-a7fb-48888a3d6634" />
+(ii)
 <img width="917" height="210" alt="image" src="https://github.com/user-attachments/assets/d7fb2a60-1de7-4614-8d03-dd87c189f1ff" />
 
 
